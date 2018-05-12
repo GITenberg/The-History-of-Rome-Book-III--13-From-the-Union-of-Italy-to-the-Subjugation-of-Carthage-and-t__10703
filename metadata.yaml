@@ -1,5 +1,5 @@
 _repo: The-History-of-Rome-Book-III--13-From-the-Union-of-Italy-to-the-Subjugation-of-Carthage-and-t__10703
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Dickson, William P. (William Purdie)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1901
     gutenberg_agent_id: '6282'
     url: http://www.gutenberg.org/2009/agents/6282
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mommsen, Theodor
@@ -30,6 +33,8 @@ description: "The History of Rome (German: Römische Geschichte) is a multi-volu
   \ indeed, \"The Roman History made Mommsen famous in a day.\" Still read and qualifiedly\
   \ cited, it is the prolific Mommsen's most well-known work. The work was specifically\
   \ cited when Mommsen was awarded the Nobel Prize.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10703#The-History-of-Rome-Book-III--13-From-the-Union-of-Italy-to-the-Subjugation-of-Carthage-and-t_
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
